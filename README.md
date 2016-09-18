@@ -1,2 +1,1 @@
-# electron-react-webpack-less
-# electron-react-webpack-less
+# EL Passion recruitment task
